@@ -72,3 +72,10 @@ Run the script to start the application:
 ```bash
 python asset_management_portal.py
 ```
+
+
+## Acknowledgments
+
+- Inspiration and support from the open-source community.
+- Libraries and frameworks that made this project possible: Tkinter, psycopg2, customtkinter, bcrypt.
+- <a href="https://www.flaticon.com/free-icons/files-and-folders" title="files and folders icons">Files and folders icons created by Awicon - Flaticon</a>
