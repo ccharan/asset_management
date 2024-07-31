@@ -89,10 +89,10 @@ class AssetManagementApp(customtkinter.CTk):
     def connect_to_db(self):
         try:
             conn = psycopg2.connect(
-                dbname="postgres",
-                user="postgres",
-                password="password",
-                host="localhost",
+                dbname="your_db",
+                user="your_user",
+                password="your_password",
+                host="your_host",
                 port="5432"
             )
             return conn
